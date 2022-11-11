@@ -12,6 +12,10 @@
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  * See the License for the specific language governing permissions and
  * limitations under the License.
+ * tell me not in mournful numbers, life is but an empty dream,
+ * Life is real, in its ernts
+		 * Be not a dumb and driven cattle, Be a Hero in his stride
+ * Let us then be up and doing. 
  */
 
 /******************************************
